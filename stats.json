@@ -1,0 +1,71 @@
+{
+  "user": {
+    "name": "Friedrich Malz",
+    "login": "malzinger",
+    "avatar": "https://avatars.githubusercontent.com/u/107999642?v=4",
+    "bio": "Im a Gamedev, 3D Modeller and AI Enthusiast ",
+    "location": "",
+    "publicRepos": 7,
+    "followers": 3,
+    "following": 1
+  },
+  "stats": {
+    "totalStars": 0,
+    "totalForks": 0,
+    "totalRepos": 7,
+    "commitsLast90Days": 0,
+    "currentStreak": 2,
+    "activeDaysLast30": 9
+  },
+  "topLanguages": [
+    {
+      "language": "GDScript",
+      "repos": 1
+    },
+    {
+      "language": "Python",
+      "repos": 1
+    },
+    {
+      "language": "Mathematica",
+      "repos": 1
+    },
+    {
+      "language": "C#",
+      "repos": 1
+    },
+    {
+      "language": "ShaderLab",
+      "repos": 1
+    }
+  ],
+  "recentActivity": [
+    {
+      "repo": "malzinger/RogueliteExtractionBrawler",
+      "commits": 0,
+      "date": "2026-01-27T10:57:35Z"
+    },
+    {
+      "repo": "malzinger/RogueliteExtractionBrawler",
+      "commits": 0,
+      "date": "2026-01-26T08:12:55Z"
+    },
+    {
+      "repo": "malzinger/RogueliteExtractionBrawler",
+      "commits": 0,
+      "date": "2026-01-23T11:12:59Z"
+    },
+    {
+      "repo": "malzinger/RogueliteExtractionBrawler",
+      "commits": 0,
+      "date": "2026-01-23T10:57:16Z"
+    },
+    {
+      "repo": "malzinger/RogueliteExtractionBrawler",
+      "commits": 0,
+      "date": "2026-01-23T09:00:54Z"
+    }
+  ],
+  "generatedAt": "2026-01-28T14:14:28.976Z",
+  "nextUpdate": "2026-02-04T14:14:28.976Z"
+}
