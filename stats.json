@@ -15,7 +15,7 @@
     "totalRepos": 7,
     "commitsLast90Days": 0,
     "currentStreak": 0,
-    "activeDaysLast30": 9
+    "activeDaysLast30": 7
   },
   "topLanguages": [
     {
@@ -43,6 +43,16 @@
     {
       "repo": "malzinger/github-stats",
       "commits": 0,
+      "date": "2026-03-30T04:00:58Z"
+    },
+    {
+      "repo": "malzinger/github-stats",
+      "commits": 0,
+      "date": "2026-03-30T04:00:57Z"
+    },
+    {
+      "repo": "malzinger/github-stats",
+      "commits": 0,
       "date": "2026-03-23T05:00:58Z"
     },
     {
@@ -54,18 +64,8 @@
       "repo": "malzinger/RogueliteExtractionBrawler",
       "commits": 0,
       "date": "2026-03-19T16:18:24Z"
-    },
-    {
-      "repo": "malzinger/github-stats",
-      "commits": 0,
-      "date": "2026-03-16T05:00:57Z"
-    },
-    {
-      "repo": "malzinger/github-stats",
-      "commits": 0,
-      "date": "2026-03-16T05:00:57Z"
     }
   ],
-  "generatedAt": "2026-03-30T04:00:56.202Z",
-  "nextUpdate": "2026-04-06T04:00:56.202Z"
+  "generatedAt": "2026-04-06T04:00:56.224Z",
+  "nextUpdate": "2026-04-13T04:00:56.224Z"
 }
