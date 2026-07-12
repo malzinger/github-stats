@@ -2,70 +2,52 @@
   "user": {
     "name": "Friedrich Malz",
     "login": "malzinger",
-    "avatar": "https://avatars.githubusercontent.com/u/107999642?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/107999642?u=4f5cec58d3a22113f6d2fe6301af2a44e1627829&v=4",
     "bio": "Im a Gamedev, 3D Modeller and AI Enthusiast ",
     "location": "",
-    "publicRepos": 1,
+    "publicRepos": 2,
     "followers": 3,
     "following": 1
   },
   "stats": {
     "totalStars": 0,
     "totalForks": 0,
-    "totalRepos": 7,
-    "commitsLast90Days": 0,
-    "currentStreak": 0,
-    "activeDaysLast30": 5
+    "totalRepos": 5,
+    "commitsLast90Days": 51,
+    "currentStreak": 3,
+    "activeDaysLast30": 7
   },
   "topLanguages": [
+    {
+      "language": "Python",
+      "repos": 2
+    },
     {
       "language": "GDScript",
       "repos": 1
     },
     {
-      "language": "Python",
-      "repos": 1
-    },
-    {
-      "language": "Mathematica",
-      "repos": 1
-    },
-    {
-      "language": "C#",
-      "repos": 1
-    },
-    {
-      "language": "ShaderLab",
+      "language": "JavaScript",
       "repos": 1
     }
   ],
   "recentActivity": [
     {
       "repo": "malzinger/github-stats",
-      "commits": 0,
-      "date": "2026-06-29T04:00:58Z"
+      "commits": 26,
+      "date": "2026-07-12T15:51:03Z"
     },
     {
-      "repo": "malzinger/github-stats",
-      "commits": 0,
-      "date": "2026-06-29T04:00:57Z"
-    },
-    {
-      "repo": "malzinger/github-stats",
-      "commits": 0,
-      "date": "2026-06-22T04:00:59Z"
-    },
-    {
-      "repo": "malzinger/github-stats",
-      "commits": 0,
-      "date": "2026-06-22T04:00:58Z"
+      "repo": "malzinger/clawd-pet",
+      "commits": 21,
+      "date": "2026-07-12T14:34:41Z"
     },
     {
       "repo": "malzinger/RogueliteExtractionBrawler",
-      "commits": 0,
-      "date": "2026-06-17T14:07:45Z"
+      "commits": 4,
+      "date": "2026-07-07T09:36:37Z"
     }
   ],
-  "generatedAt": "2026-07-06T04:00:56.500Z",
-  "nextUpdate": "2026-07-13T04:00:56.500Z"
+  "generatedAt": "2026-07-12T16:08:40.720Z",
+  "nextUpdate": "2026-07-13T16:08:40.720Z"
 }
