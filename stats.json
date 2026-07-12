@@ -13,9 +13,9 @@
     "totalStars": 0,
     "totalForks": 0,
     "totalRepos": 5,
-    "commitsLast90Days": 53,
+    "commitsLast90Days": 55,
     "currentStreak": 3,
-    "activeDaysLast30": 7
+    "activeDaysLast30": 3
   },
   "topLanguages": [
     {
@@ -33,14 +33,14 @@
   ],
   "recentActivity": [
     {
+      "repo": "malzinger/github-stats",
+      "commits": 29,
+      "date": "2026-07-12T16:19:17Z"
+    },
+    {
       "repo": "malzinger/clawd-pet",
       "commits": 22,
       "date": "2026-07-12T16:15:21Z"
-    },
-    {
-      "repo": "malzinger/github-stats",
-      "commits": 27,
-      "date": "2026-07-12T16:08:42Z"
     },
     {
       "repo": "malzinger/RogueliteExtractionBrawler",
@@ -48,6 +48,6 @@
       "date": "2026-07-07T09:36:37Z"
     }
   ],
-  "generatedAt": "2026-07-12T16:18:53.580Z",
-  "nextUpdate": "2026-07-13T16:18:53.580Z"
+  "generatedAt": "2026-07-12T16:19:27.304Z",
+  "nextUpdate": "2026-07-13T16:19:27.304Z"
 }
