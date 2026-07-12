@@ -89,6 +89,20 @@ export function buildStats(user, now = new Date()) {
   const repos = user.repos.nodes;
   const days = flattenCalendar(user.calendar.contributionCalendar);
 
+  // Exclude this repo's own automated commits so the daily bot doesn't inflate
+  // the streak / active-day counts. Matches the workflow's commit messages.
+  const botDays = {};
+  for (const c of user.selfRepo?.defaultBranchRef?.target?.history?.nodes || []) {
+    if (/^Update (stats|card\.svg)/i.test(c.messageHeadline || '')) {
+      const day = c.committedDate.slice(0, 10); // UTC date
+      botDays[day] = (botDays[day] || 0) + 1;
+    }
+  }
+  const realDays = days.map((d) => ({
+    date: d.date,
+    count: Math.max(0, d.count - (botDays[d.date] || 0)),
+  }));
+
   const totalStars = repos.reduce((s, r) => s + (r.stargazerCount || 0), 0);
   const totalForks = repos.reduce((s, r) => s + (r.forkCount || 0), 0);
 
@@ -122,8 +136,8 @@ export function buildStats(user, now = new Date()) {
       totalForks,
       totalRepos: user.totalRepos.totalCount,
       commitsLast90Days: commits90,
-      currentStreak: computeStreak(days),
-      activeDaysLast30: activeDaysLast30(days),
+      currentStreak: computeStreak(realDays),
+      activeDaysLast30: activeDaysLast30(realDays),
     },
     topLanguages: pickTopLanguages(repos),
     recentActivity,
@@ -228,6 +242,11 @@ query($login:String!, $from90:DateTime!, $fromYear:DateTime!, $to:DateTime!){
         totalContributions
         weeks { contributionDays { date contributionCount } }
       }
+    }
+    selfRepo: repository(name:"github-stats"){
+      defaultBranchRef { target { ... on Commit {
+        history(first:100){ nodes { committedDate messageHeadline } }
+      } } }
     }
   }
 }`;
