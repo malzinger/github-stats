@@ -12,19 +12,19 @@
   "stats": {
     "totalStars": 1,
     "totalForks": 1,
-    "totalRepos": 5,
-    "commitsLast90Days": 60,
-    "currentStreak": 0,
-    "activeDaysLast30": 4
+    "totalRepos": 6,
+    "commitsLast90Days": 65,
+    "currentStreak": 1,
+    "activeDaysLast30": 5
   },
   "topLanguages": [
     {
-      "language": "Python",
+      "language": "GDScript",
       "repos": 2
     },
     {
-      "language": "GDScript",
-      "repos": 1
+      "language": "Python",
+      "repos": 2
     },
     {
       "language": "JavaScript",
@@ -33,9 +33,14 @@
   ],
   "recentActivity": [
     {
+      "repo": "malzinger/IsoSurvival",
+      "commits": 4,
+      "date": "2026-07-23T19:59:36Z"
+    },
+    {
       "repo": "malzinger/github-stats",
-      "commits": 37,
-      "date": "2026-07-22T06:29:05Z"
+      "commits": 38,
+      "date": "2026-07-23T06:30:44Z"
     },
     {
       "repo": "malzinger/clawd-pet",
@@ -43,6 +48,6 @@
       "date": "2026-07-13T11:45:20Z"
     }
   ],
-  "generatedAt": "2026-07-23T06:30:42.859Z",
-  "nextUpdate": "2026-07-24T06:30:42.859Z"
+  "generatedAt": "2026-07-24T06:26:35.347Z",
+  "nextUpdate": "2026-07-25T06:26:35.347Z"
 }
