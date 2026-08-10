@@ -13,9 +13,9 @@
     "totalStars": 1,
     "totalForks": 1,
     "totalRepos": 6,
-    "commitsLast90Days": 85,
+    "commitsLast90Days": 84,
     "currentStreak": 0,
-    "activeDaysLast30": 7
+    "activeDaysLast30": 6
   },
   "topLanguages": [
     {
@@ -34,8 +34,8 @@
   "recentActivity": [
     {
       "repo": "malzinger/github-stats",
-      "commits": 50,
-      "date": "2026-08-08T04:57:36Z"
+      "commits": 49,
+      "date": "2026-08-09T05:05:29Z"
     },
     {
       "repo": "malzinger/clawd-pet",
@@ -48,6 +48,6 @@
       "date": "2026-07-23T19:59:36Z"
     }
   ],
-  "generatedAt": "2026-08-09T05:05:27.198Z",
-  "nextUpdate": "2026-08-10T05:05:27.198Z"
+  "generatedAt": "2026-08-10T05:27:35.412Z",
+  "nextUpdate": "2026-08-11T05:27:35.412Z"
 }
