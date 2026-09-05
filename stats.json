@@ -13,7 +13,7 @@
     "totalStars": 1,
     "totalForks": 1,
     "totalRepos": 8,
-    "commitsLast90Days": 109,
+    "commitsLast90Days": 110,
     "currentStreak": 2,
     "activeDaysLast30": 2
   },
@@ -37,6 +37,11 @@
   ],
   "recentActivity": [
     {
+      "repo": "malzinger/github-stats",
+      "commits": 69,
+      "date": "2026-09-04T08:32:01Z"
+    },
+    {
       "repo": "malzinger/klarsicht",
       "commits": 4,
       "date": "2026-09-04T07:51:46Z"
@@ -45,11 +50,6 @@
       "repo": "malzinger/nimbus-configurator",
       "commits": 2,
       "date": "2026-09-03T13:28:41Z"
-    },
-    {
-      "repo": "malzinger/github-stats",
-      "commits": 68,
-      "date": "2026-09-03T08:37:17Z"
     },
     {
       "repo": "malzinger/clawd-pet",
@@ -62,6 +62,6 @@
       "date": "2026-07-23T19:59:36Z"
     }
   ],
-  "generatedAt": "2026-09-04T08:31:59.753Z",
-  "nextUpdate": "2026-09-05T08:31:59.753Z"
+  "generatedAt": "2026-09-05T08:07:52.732Z",
+  "nextUpdate": "2026-09-06T08:07:52.732Z"
 }
