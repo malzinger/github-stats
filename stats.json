@@ -5,19 +5,23 @@
     "avatar": "https://avatars.githubusercontent.com/u/107999642?u=4f5cec58d3a22113f6d2fe6301af2a44e1627829&v=4",
     "bio": "Im a Gamedev, 3D Modeller and AI Enthusiast ",
     "location": "",
-    "publicRepos": 4,
+    "publicRepos": 5,
     "followers": 4,
     "following": 1
   },
   "stats": {
     "totalStars": 1,
     "totalForks": 1,
-    "totalRepos": 8,
-    "commitsLast90Days": 110,
-    "currentStreak": 2,
-    "activeDaysLast30": 2
+    "totalRepos": 9,
+    "commitsLast90Days": 118,
+    "currentStreak": 3,
+    "activeDaysLast30": 3
   },
   "topLanguages": [
+    {
+      "language": "TypeScript",
+      "repos": 3
+    },
     {
       "language": "GDScript",
       "repos": 2
@@ -27,29 +31,25 @@
       "repos": 2
     },
     {
-      "language": "TypeScript",
-      "repos": 2
-    },
-    {
       "language": "JavaScript",
       "repos": 1
     }
   ],
   "recentActivity": [
     {
-      "repo": "malzinger/github-stats",
-      "commits": 69,
-      "date": "2026-09-04T08:32:01Z"
+      "repo": "malzinger/tokenbuch",
+      "commits": 2,
+      "date": "2026-09-05T12:35:07Z"
     },
     {
       "repo": "malzinger/klarsicht",
-      "commits": 4,
-      "date": "2026-09-04T07:51:46Z"
+      "commits": 9,
+      "date": "2026-09-05T10:56:41Z"
     },
     {
-      "repo": "malzinger/nimbus-configurator",
-      "commits": 2,
-      "date": "2026-09-03T13:28:41Z"
+      "repo": "malzinger/github-stats",
+      "commits": 70,
+      "date": "2026-09-05T08:07:54Z"
     },
     {
       "repo": "malzinger/clawd-pet",
@@ -62,6 +62,6 @@
       "date": "2026-07-23T19:59:36Z"
     }
   ],
-  "generatedAt": "2026-09-05T08:07:52.732Z",
-  "nextUpdate": "2026-09-06T08:07:52.732Z"
+  "generatedAt": "2026-09-06T08:25:00.337Z",
+  "nextUpdate": "2026-09-07T08:25:00.337Z"
 }
