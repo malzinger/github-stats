@@ -13,7 +13,7 @@
     "totalStars": 1,
     "totalForks": 1,
     "totalRepos": 10,
-    "commitsLast90Days": 116,
+    "commitsLast90Days": 112,
     "currentStreak": 0,
     "activeDaysLast30": 1
   },
@@ -39,7 +39,7 @@
     {
       "repo": "malzinger/github-stats",
       "commits": 90,
-      "date": "2026-10-20T09:12:55Z"
+      "date": "2026-10-21T09:09:53Z"
     },
     {
       "repo": "malzinger/tokenbuch",
@@ -52,16 +52,16 @@
       "date": "2026-09-05T10:56:41Z"
     },
     {
+      "repo": "malzinger/nimbus-configurator",
+      "commits": 2,
+      "date": "2026-09-03T13:28:41Z"
+    },
+    {
       "repo": "malzinger/clawd-pet",
       "commits": 8,
       "date": "2026-07-30T06:05:25Z"
-    },
-    {
-      "repo": "malzinger/IsoSurvival",
-      "commits": 4,
-      "date": "2026-07-23T19:59:36Z"
     }
   ],
-  "generatedAt": "2026-10-21T09:09:50.466Z",
-  "nextUpdate": "2026-10-22T09:09:50.466Z"
+  "generatedAt": "2026-10-22T09:12:29.263Z",
+  "nextUpdate": "2026-10-23T09:12:29.263Z"
 }
