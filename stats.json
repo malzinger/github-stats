@@ -5,22 +5,22 @@
     "avatar": "https://avatars.githubusercontent.com/u/107999642?u=4f5cec58d3a22113f6d2fe6301af2a44e1627829&v=4",
     "bio": "Im a Gamedev, 3D Modeller and AI Enthusiast ",
     "location": "",
-    "publicRepos": 5,
+    "publicRepos": 9,
     "followers": 4,
     "following": 1
   },
   "stats": {
     "totalStars": 1,
     "totalForks": 1,
-    "totalRepos": 10,
-    "commitsLast90Days": 104,
-    "currentStreak": 0,
-    "activeDaysLast30": 1
+    "totalRepos": 14,
+    "commitsLast90Days": 117,
+    "currentStreak": 2,
+    "activeDaysLast30": 3
   },
   "topLanguages": [
     {
       "language": "TypeScript",
-      "repos": 3
+      "repos": 7
     },
     {
       "language": "GDScript",
@@ -37,31 +37,31 @@
   ],
   "recentActivity": [
     {
+      "repo": "malzinger/rechenknecht",
+      "commits": 3,
+      "date": "2026-11-01T09:26:41Z"
+    },
+    {
+      "repo": "malzinger/wumms",
+      "commits": 3,
+      "date": "2026-10-31T21:39:31Z"
+    },
+    {
+      "repo": "malzinger/beleglese",
+      "commits": 6,
+      "date": "2026-10-31T13:06:23Z"
+    },
+    {
       "repo": "malzinger/github-stats",
       "commits": 90,
-      "date": "2026-10-30T10:43:39Z"
-    },
-    {
-      "repo": "malzinger/bhs-ad",
-      "commits": 1,
-      "date": "2026-10-12T08:09:57Z"
-    },
-    {
-      "repo": "malzinger/tokenbuch",
-      "commits": 2,
-      "date": "2026-09-05T12:35:07Z"
+      "date": "2026-10-31T10:13:20Z"
     },
     {
       "repo": "malzinger/klarsicht",
       "commits": 9,
       "date": "2026-09-05T10:56:41Z"
-    },
-    {
-      "repo": "malzinger/nimbus-configurator",
-      "commits": 2,
-      "date": "2026-09-03T13:28:41Z"
     }
   ],
-  "generatedAt": "2026-10-31T10:13:18.807Z",
-  "nextUpdate": "2026-11-01T10:13:18.807Z"
+  "generatedAt": "2026-11-01T11:04:08.402Z",
+  "nextUpdate": "2026-11-02T11:04:08.402Z"
 }
