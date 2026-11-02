@@ -37,6 +37,11 @@
   ],
   "recentActivity": [
     {
+      "repo": "malzinger/github-stats",
+      "commits": 90,
+      "date": "2026-11-01T11:04:10Z"
+    },
+    {
       "repo": "malzinger/rechenknecht",
       "commits": 3,
       "date": "2026-11-01T09:26:41Z"
@@ -52,16 +57,11 @@
       "date": "2026-10-31T13:06:23Z"
     },
     {
-      "repo": "malzinger/github-stats",
-      "commits": 90,
-      "date": "2026-10-31T10:13:20Z"
-    },
-    {
       "repo": "malzinger/klarsicht",
       "commits": 9,
       "date": "2026-09-05T10:56:41Z"
     }
   ],
-  "generatedAt": "2026-11-01T11:04:08.402Z",
-  "nextUpdate": "2026-11-02T11:04:08.402Z"
+  "generatedAt": "2026-11-02T12:02:13.759Z",
+  "nextUpdate": "2026-11-03T12:02:13.759Z"
 }
