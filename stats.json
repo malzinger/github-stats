@@ -14,7 +14,7 @@
     "totalForks": 1,
     "totalRepos": 14,
     "commitsLast90Days": 117,
-    "currentStreak": 1,
+    "currentStreak": 0,
     "activeDaysLast30": 3
   },
   "topLanguages": [
@@ -39,7 +39,7 @@
     {
       "repo": "malzinger/github-stats",
       "commits": 90,
-      "date": "2026-11-04T11:53:35Z"
+      "date": "2026-11-05T11:55:50Z"
     },
     {
       "repo": "malzinger/rechenknecht",
@@ -62,6 +62,6 @@
       "date": "2026-09-05T10:56:41Z"
     }
   ],
-  "generatedAt": "2026-11-05T11:55:48.683Z",
-  "nextUpdate": "2026-11-06T11:55:48.683Z"
+  "generatedAt": "2026-11-06T11:52:07.038Z",
+  "nextUpdate": "2026-11-07T11:52:07.038Z"
 }
